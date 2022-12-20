@@ -47,13 +47,11 @@ loadFacts();
 
 async function loadFacts() {
   const res = await fetch(
-    "https://vipukmlbgcyhsmozylnt.supabase.co/rest/v1/facts",
+    URL here,
     {
       headers: {
-        apikey:
-          "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZpcHVrbWxiZ2N5aHNtb3p5bG50Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NzE0NTcxNzEsImV4cCI6MTk4NzAzMzE3MX0.E9K_SzL-gYMSu8yuLaNneD-6gB6zNb_eU0_FnGOuCIs",
-        authorization:
-          "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZpcHVrbWxiZ2N5aHNtb3p5bG50Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NzE0NTcxNzEsImV4cCI6MTk4NzAzMzE3MX0.E9K_SzL-gYMSu8yuLaNneD-6gB6zNb_eU0_FnGOuCIs",
+        apikey:"";
+        authorization:"";
       },
     }
   );
