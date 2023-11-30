@@ -1,14 +1,17 @@
-# Today-I-Learned
-A web development project that combines basics of JS, HTML, CSS.
+# Today I Learned
 
-First we use HTML to build the skeleton.
+Welcome to **Today I Learned**, a captivating web development project that seamlessly intertwines the fundamentals of JavaScript, HTML, and CSS to create an engaging online experience. This journey unfolds in distinct phases:
 
-Then with CSS we style it and make the layout.
+1. **HTML Skeleton:** The foundation begins with HTML, crafting the skeletal structure of our web application.
 
-We use Supabase to create online db and API for our application data.
+2. **CSS Styling:** We bring life to the layout through the artistry of CSS, painting a visually appealing canvas for users to explore.
 
-Then we build the web app with React.
+3. **Supabase Magic:** Enter Supabase, a magical tool that conjures an online database and API, enriching our application's data dynamics.
 
-Finally, we deploy the final project to a free service called Netlify.
+4. **React Symphony:** The web app takes shape with the brilliance of React, orchestrating a symphony of components for a seamless and responsive user experience.
 
-Domain: https://fernoss-todayilearned.netlify.app
+5. **Netlify Encore:** Witness the grand finale as we deploy the final masterpiece to Netlify, offering a global stage for our creation.
+
+## Domain
+🌐 [Today I Learned on Netlify](https://fernoss-todayilearned.netlify.app)
+
